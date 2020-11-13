@@ -15,6 +15,6 @@ Statements (``s``):
 Expressions (``e``):
 | Description | Syntax |
 | ------------| -------|
-| Lambda | x => e |
-| Application | e e |
-| Variable | x |
+| Lambda | ``x => e`` |
+| Application | ``e e`` |
+| Variable |``x`` |
