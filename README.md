@@ -18,3 +18,4 @@ Expressions (``e``):
 | Lambda | ``x => e`` |
 | Application | ``e e`` |
 | Variable |``x`` |
+| Parenthesis | ``(e)`` |
