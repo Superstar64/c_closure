@@ -10,7 +10,7 @@ Statements (``s``):
 | Description | Syntax |
 -------------|----------
 | Declare | ``x = e; s``|
-| End | `` ε`` |
+| End | ε |
 
 Expressions (``e``):
 | Description | Syntax |
